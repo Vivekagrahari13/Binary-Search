@@ -11,7 +11,7 @@ public class BinarySearch
         {
             a[i]=sc.nextInt();
         }
-        int x=sc.nextInt(); // elemnt to be searched  
+        int x=sc.nextInt(); // element to be searched  
         sc.close();
         System.out.println(BinSer(n, a, x));  
       }
